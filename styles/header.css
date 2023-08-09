@@ -4,3 +4,7 @@
     background-image: url(../IMAGEM/Menu.figma.png);
     display: inline-block;
 }
+
+.cabeçalho{
+    background-color: var(--branco);
+}
