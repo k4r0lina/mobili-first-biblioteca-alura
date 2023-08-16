@@ -3,6 +3,8 @@
     height: 24px;
     background-image: url(../IMAGEM/Menu.figma.png);
     display: inline-block;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 .cabeçalho{
